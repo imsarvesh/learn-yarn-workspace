@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "mono-repo",
+    "workspaces": [
+        "packages/*"
+    ],
+    "lockfilePerWorkspace": true,
+    "dependencies": {
+        "yarn": "^1.22.19"
+    }
+}
